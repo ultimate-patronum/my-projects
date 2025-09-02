@@ -1,4 +1,4 @@
-# 🌟 Riddhima’s Project Portfolio
+# Riddhima’s Project Portfolio
 
 Hi! I’m Riddhima, a Computer Engineering student at the **University of British Columbia** (BASc, expected May 2028).  
 I’m passionate about **software development, embedded systems, VR/AR, and AI ethics**, and I enjoy building projects that merge technical depth with real-world impact.  
@@ -34,7 +34,7 @@ I contributed to the **OneOS privacy framework**, an experimental OS layer for c
 
 ---
 
-### UBC Rover — Software Development Sub-Team Member  
+### [UBC Rover — Software Development] Software Team Lead  
 *Sep 2024 – Present, Vancouver, BC*  
 Contributed to the **Mars Rover project** as part of the UBC Rover team.  
 - **Simulation**: Built Unity-based simulations using GNSS/GPS data to replicate rover movement in real-world terrain.  
