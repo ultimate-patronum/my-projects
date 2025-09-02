@@ -34,7 +34,7 @@ I contributed to the **OneOS privacy framework**, an experimental OS layer for c
 
 ---
 
-### [UBC Rover — Software Development] Software Team Lead  
+### UBC Rover — Software Development Team Lead  
 *Sep 2024 – Present, Vancouver, BC*  
 Contributed to the **Mars Rover project** as part of the UBC Rover team.  
 - **Simulation**: Built Unity-based simulations using GNSS/GPS data to replicate rover movement in real-world terrain.  
